@@ -1,0 +1,12 @@
+/* This script is generated */
+/* Client Bootstrap configuration */
+globalThis.LWR = globalThis.LWR || {};
+Object.assign(globalThis.LWR, {"appId":"example","bootstrapModule":"@lwrjs/app-service/example/module/esm/v/0_18_3","autoBoot":true,"imports":{"/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_18_3/s/sha256-6zD2b9lMNBsxo5RUNtFMunxe1wWjpcypkHs9fJsG9_g/bundle_@lwrjs_app-service_example_module_esm.js":["@lwrjs/app-service/example/module/esm/v/0_18_3"],"/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1/s/sha256-oEqc99LPJ8uDoraCFJTSoqxLJkd6fqBS3rxgzY80E68/bundle_example_app.js":["example/app/v/0_0_1"]},"index":{"@lwrjs/app-service/example/module/esm/v/0_18_3":"/1/module/esm/0/l/en-US/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_18_3/latest/@lwrjs_app-service_example_module_esm.js","example/app/v/0_0_1":"/1/module/esm/0/l/en-US/mi/example%2Fapp%2Fv%2F0_0_1/latest/example_app.js"},"rootComponents":["example/app/v/0_0_1"],"serverData":{},"endpoints":{"uris":{"mapping":"/1/mapping/esm/0/l/en-US/bi/0/mp/","module":"/1/bundle/esm/l/en-US/bi/0/module/mi/"}}});
+globalThis.LWR = {...globalThis.LWR, env: {"SSR":false,"SSREnabled":false,"basePath":"","locale":"en-US","assetBasePath":"","uiBasePath":""}};
+globalThis.process={...globalThis.process,env:{...globalThis.process?.env,...{"NODE_ENV":"prod"}}};
+globalThis.lwcRuntimeFlags = { ENABLE_MIXED_SHADOW_MODE: false, ENABLE_WIRE_SYNC_EMIT: false };
+// Appended by Static Site Generator
+if (!globalThis.LWR.imports) { globalThis.LWR.imports = {}; }
+Object.assign(globalThis.LWR.imports, {"/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader%2Fv%2F0_18_3/s/sha256-XZ3-fTIQeMpr-t515p72MK4vr6gSnXsH3O_YELtRaFw/bundle_lwr_esmLoader.js":["lwr/esmLoader/v/0_18_3"],"/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler%2Fv%2F0_18_3/s/sha256-kGLXJohj797McyfBP40zJ-_7G1vXcR4obQNMGxQNgGk/bundle_lwr_profiler.js":["lwr/profiler/v/0_18_3"],"/1/bundle/esm/l/en-US/bi/0/module/mi/lwc%2Fv%2F8_20_1/s/sha256-WFUZ-j_7b-yVnZMVs3rz-496x2a0HvOqDBhuK11zmIk/bundle_lwc.js":["lwc/v/8_20_1"]})
+if (!globalThis.LWR.index) { globalThis.LWR.index = {}; }
+Object.assign(globalThis.LWR.index, {"lwr/esmLoader/v/0_18_3":"/1/module/esm/0/l/en-US/mi/lwr%2FesmLoader%2Fv%2F0_18_3/latest/lwr_esmLoader.js","lwr/profiler/v/0_18_3":"/1/module/esm/0/l/en-US/mi/lwr%2Fprofiler%2Fv%2F0_18_3/latest/lwr_profiler.js","lwc/v/8_20_1":"/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F8_20_1/latest/lwc.js"})

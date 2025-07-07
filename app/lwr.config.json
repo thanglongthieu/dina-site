@@ -1,26 +1,22 @@
 {
-    "lwc": {
-        "modules": [
-            { "dir": "$rootDir/src/modules" },
-            {
-                "npm": "lwc-recipes-oss-ui-components"
-            }
-        ]
-    },
-    "bundleConfig": { "exclude": ["lwc"] },
+    "lwc": { "modules": [{ "dir": "$rootDir/src/modules" }] },
+    "routes": [
+        {
+            "id": "example",
+            "path": "/",
+            "rootComponent": "example/app"
+        }
+    ],
     "assets": [
         {
             "alias": "assetsDir",
             "dir": "$rootDir/src/assets",
-            "urlPath": "/assets"
-        }
-    ],
-    "routes": [
+            "urlPath": "/public/assets"
+        },
         {
-            "id": "home",
-            "path": "/",
-            "rootComponent": "ui/app",
-            "layoutTemplate": "$layoutsDir/index.html"
+            "alias": "favicon",
+            "file": "$rootDir/src/assets/favicon.ico",
+            "urlPath": "/favicon.ico"
         }
     ]
 }
