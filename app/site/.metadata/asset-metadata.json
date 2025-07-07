@@ -1,40 +1,40 @@
 {
   "assets": {
-    "/assets/site.webmanifest": {
-      "path": "/1/asset/immutable/s/17518656295602078/assets/site.webmanifest",
-      "mimeType": "application/manifest+json"
+    "/assets/images/apple-touch-icon.png": {
+      "path": "/1/asset/immutable/s/17518666160275096/assets/images/apple-touch-icon.png",
+      "mimeType": "image/png"
     },
     "/assets/images/favicon-16x16.png": {
-      "path": "/1/asset/immutable/s/17518656295586346/assets/images/favicon-16x16.png",
+      "path": "/1/asset/immutable/s/17518666160311806/assets/images/favicon-16x16.png",
       "mimeType": "image/png"
-    },
-    "/assets/images/apple-touch-icon.png": {
-      "path": "/1/asset/immutable/s/17518656295556600/assets/images/apple-touch-icon.png",
-      "mimeType": "image/png"
-    },
-    "/assets/css/main.css": {
-      "path": "/1/asset/immutable/s/17518656295552780/assets/css/main.css",
-      "mimeType": "text/css"
-    },
-    "/assets/images/favicon-32x32.png": {
-      "path": "/1/asset/immutable/s/17518656295587106/assets/images/favicon-32x32.png",
-      "mimeType": "image/png"
-    },
-    "/assets/css/normalize.css": {
-      "path": "/1/asset/immutable/s/17518656295553488/assets/css/normalize.css",
-      "mimeType": "text/css"
-    },
-    "/assets/images/logo.svg": {
-      "path": "/1/asset/immutable/s/17518656295590320/assets/images/logo.svg",
-      "mimeType": "image/svg+xml"
     },
     "/assets/images/safari-pinned-tab.svg": {
-      "path": "/1/asset/immutable/s/17518656295596428/assets/images/safari-pinned-tab.svg",
+      "path": "/1/asset/immutable/s/17518666160323154/assets/images/safari-pinned-tab.svg",
       "mimeType": "image/svg+xml"
     },
     "/assets/images/favicon.ico": {
-      "path": "/1/asset/immutable/s/17518656295589116/assets/images/favicon.ico",
+      "path": "/1/asset/immutable/s/17518666160314402/assets/images/favicon.ico",
       "mimeType": "image/vnd.microsoft.icon"
+    },
+    "/assets/css/main.css": {
+      "path": "/1/asset/immutable/s/17518666160271480/assets/css/main.css",
+      "mimeType": "text/css"
+    },
+    "/assets/css/normalize.css": {
+      "path": "/1/asset/immutable/s/17518666160272278/assets/css/normalize.css",
+      "mimeType": "text/css"
+    },
+    "/assets/images/favicon-32x32.png": {
+      "path": "/1/asset/immutable/s/17518666160312370/assets/images/favicon-32x32.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/logo.svg": {
+      "path": "/1/asset/immutable/s/17518666160315158/assets/images/logo.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "/assets/site.webmanifest": {
+      "path": "/1/asset/immutable/s/17518666160334206/assets/site.webmanifest",
+      "mimeType": "application/manifest+json"
     },
     "/assets/images/android-chrome-192x192.png": {
       "path": "/assets/images/android-chrome-192x192.png",

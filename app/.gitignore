@@ -4,10 +4,12 @@ logs
 *-debug.log
 *-error.log
 
+# Standard dist folder
+/dist
+/build
 
 # Tooling files
 node_modules
-jsconfig.json
 
 # Temp directory
 /tmp
