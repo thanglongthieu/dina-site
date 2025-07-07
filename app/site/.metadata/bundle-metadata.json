@@ -1,0 +1,63 @@
+{
+  "bundles": {
+    "recipe/hello|v/1_0_0": {
+      "version": "1.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/recipe/hello/v/1_0_0/s/sha256-RxnKKGgwsAKfsHexCp-vdBWD3E6xj3XjGOib8dS7bBE/bundle_recipe_hello.js",
+      "includedModules": [],
+      "imports": [
+        "lwc|v/8_12_7"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-RxnKKGgwsAKfsHexCp+vdBWD3E6xj3XjGOib8dS7bBE="
+    },
+    "@lwrjs/app-service/home/module/esm|v/0_16_11": {
+      "version": "0.16.11",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_16_11/s/sha256--ZwafUMjqE4k2_xbrxsccZf7sbL512InucsqazqPt7Y/bundle_@lwrjs_app-service_home_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader|v/0_16_11",
+        "lwr/profiler|v/0_16_11",
+        "lwc|v/8_12_7"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-+ZwafUMjqE4k2/xbrxsccZf7sbL512InucsqazqPt7Y="
+    },
+    "lwc|v/8_12_7": {
+      "version": "8.12.7",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/8_12_7/s/sha256-A4k_e_1rs5Y4edfd78wU8iL0ESRybIXT4kbpYdnL__Y/bundle_lwc.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-A4k/e/1rs5Y4edfd78wU8iL0ESRybIXT4kbpYdnL//Y="
+    },
+    "lwr/esmLoader|v/0_16_11": {
+      "version": "0.16.11",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_16_11/s/sha256-XZ3-fTIQeMpr-t515p72MK4vr6gSnXsH3O_YELtRaFw/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-XZ3+fTIQeMpr+t515p72MK4vr6gSnXsH3O/YELtRaFw="
+    },
+    "lwr/profiler|v/0_16_11": {
+      "version": "0.16.11",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_16_11/s/sha256-Ea6iESa0YeU-qIZv8Y-KaEz8gaziNRwGMvjbpahDOIE/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-Ea6iESa0YeU+qIZv8Y+KaEz8gaziNRwGMvjbpahDOIE="
+    },
+    "ui/app|v/1_0_0": {
+      "version": "1.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/ui/app/v/1_0_0/s/sha256-X3SWd4av1Z-fug1CABc8QK1B2MlVA9wFf21NDkH0WRY/bundle_ui_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc|v/8_12_7",
+        "lwr/esmLoader|v/0_16_11"
+      ],
+      "dynamicImports": [
+        "recipe/hello|v/1_0_0"
+      ],
+      "integrity": "sha256-X3SWd4av1Z+fug1CABc8QK1B2MlVA9wFf21NDkH0WRY="
+    }
+  }
+}

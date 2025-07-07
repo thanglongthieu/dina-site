@@ -1,0 +1,112 @@
+{
+  "assets": {
+    "/assets/site.webmanifest": {
+      "path": "/1/asset/immutable/s/17518656295602078/assets/site.webmanifest",
+      "mimeType": "application/manifest+json"
+    },
+    "/assets/images/favicon-16x16.png": {
+      "path": "/1/asset/immutable/s/17518656295586346/assets/images/favicon-16x16.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/apple-touch-icon.png": {
+      "path": "/1/asset/immutable/s/17518656295556600/assets/images/apple-touch-icon.png",
+      "mimeType": "image/png"
+    },
+    "/assets/css/main.css": {
+      "path": "/1/asset/immutable/s/17518656295552780/assets/css/main.css",
+      "mimeType": "text/css"
+    },
+    "/assets/images/favicon-32x32.png": {
+      "path": "/1/asset/immutable/s/17518656295587106/assets/images/favicon-32x32.png",
+      "mimeType": "image/png"
+    },
+    "/assets/css/normalize.css": {
+      "path": "/1/asset/immutable/s/17518656295553488/assets/css/normalize.css",
+      "mimeType": "text/css"
+    },
+    "/assets/images/logo.svg": {
+      "path": "/1/asset/immutable/s/17518656295590320/assets/images/logo.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "/assets/images/safari-pinned-tab.svg": {
+      "path": "/1/asset/immutable/s/17518656295596428/assets/images/safari-pinned-tab.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "/assets/images/favicon.ico": {
+      "path": "/1/asset/immutable/s/17518656295589116/assets/images/favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    },
+    "/assets/images/android-chrome-192x192.png": {
+      "path": "/assets/images/android-chrome-192x192.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/android-chrome-512x512.png": {
+      "path": "/assets/images/android-chrome-512x512.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/background.png": {
+      "path": "/assets/images/background.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/demo/amy_taylor.jpg": {
+      "path": "/assets/images/demo/amy_taylor.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/demo/anup_gupta.jpg": {
+      "path": "/assets/images/demo/anup_gupta.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/demo/caroline_kingsley.jpg": {
+      "path": "/assets/images/demo/caroline_kingsley.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/demo/jennifer_wu.jpg": {
+      "path": "/assets/images/demo/jennifer_wu.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/demo/jonathan_bradley.jpg": {
+      "path": "/assets/images/demo/jonathan_bradley.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/demo/michael_jones.jpg": {
+      "path": "/assets/images/demo/michael_jones.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "/assets/images/mstile-144x144.png": {
+      "path": "/assets/images/mstile-144x144.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/mstile-150x150.png": {
+      "path": "/assets/images/mstile-150x150.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/mstile-310x150.png": {
+      "path": "/assets/images/mstile-310x150.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/mstile-310x310.png": {
+      "path": "/assets/images/mstile-310x310.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/mstile-70x70.png": {
+      "path": "/assets/images/mstile-70x70.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/recipes-logo.png": {
+      "path": "/assets/images/recipes-logo.png",
+      "mimeType": "image/png"
+    },
+    "/assets/images/salesforce.svg": {
+      "path": "/assets/images/salesforce.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "/assets/images/search.svg": {
+      "path": "/assets/images/search.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "/assets/recipes-logo.png": {
+      "path": "/assets/recipes-logo.png",
+      "mimeType": "image/png"
+    }
+  }
+}
